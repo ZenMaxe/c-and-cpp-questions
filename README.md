@@ -19,5 +19,5 @@ int main() {
 در اینجا تمرین های سی پلاس پلاس لیست میشود تا بتوانید راحت تر تمرین موردنظرتونو پیدا کنید
 #### تمرین های موجود:
 
-- [فاکتوریل ها](https://www.google.com)  
-- [ماتریکس ها](https://www.google.com)
+- [فاکتوریل ها](https://github.com/ZenMaxe/c-and-cpp-questions/tree/main/Factorial)  
+- [ماتریکس ها](https://github.com/ZenMaxe/c-and-cpp-questions/tree/main/Matrix)
