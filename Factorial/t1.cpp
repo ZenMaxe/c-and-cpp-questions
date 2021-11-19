@@ -20,8 +20,7 @@ int main()
 using namespace std;
 int a;
 int b;
-int i;
-
+  
 cout<<"input number and get the factorial 1 : ";
 cin>>a;
 
